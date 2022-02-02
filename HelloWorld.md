@@ -1,3 +1,2 @@
 # datasciencecoursera
-##This is a markdown file,https://github.com/jtleek/datasharing
-
+##This is a markdown file
